@@ -110,7 +110,7 @@ form label {
 form select,
 form input {
   margin-bottom: 20px;
-  width: 180px;
+  width: 150px;
 }
 
 form button {
@@ -146,5 +146,11 @@ footer p {
 
   .logo {
     font-size: 36px;
+  }
+  
+  form select,
+  form input {
+    margin-bottom: 20px;
+    width: 195px;
   }
 }
